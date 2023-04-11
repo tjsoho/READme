@@ -1,35 +1,35 @@
 
-    # test
+# Music App
 
-    ## Table of Contents
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [Questions](#questions)
-    - [License](#license)
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Questions](#questions)
+- [License](#license)
 
 
-    ## Description
-    undefined
+## Description
+An app for students to gain better knowledge of their guitar chord
 
-    ## Installation
-    na
+## Installation
+NA
 
-    ## Usage
-    for fun
+## Usage
+For all musicians
 
-    ## Contributing
-    me
+## Contributing
+All by me
 
-    ## License
-    undefined
+## License
+mit
 
-    ## Github
-    tjsoho
+## Github
+tjsoho
 
-    ## Questions
-    If you have any questions, please contact me at tj@me.com or visit my github page at tjsoho
+## Questions
+If you have any questions, please contact me at tj@me.com or visit my github page at tjsoho
 
   
 

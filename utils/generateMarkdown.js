@@ -8,7 +8,7 @@ function renderLicenseBadge(license) {
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) { 
+function renderLicenseLink(license) {
     const licenseLink = ''
     return licenseLink
 }
@@ -18,42 +18,42 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
     const licenseSection = `${data.license}`
     return licenseSection
- }
+}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
     return `
-    # ${data.title}
+# ${data.title}
 
-    ## Table of Contents
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [Questions](#questions)
-    - [License](#license)
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Questions](#questions)
+- [License](#license)
 
 
-    ## Description
-    ${data.description}
+## Description
+${data.description}
 
-    ## Installation
-    ${data.installation}
+## Installation
+${data.installation}
 
-    ## Usage
-    ${data.usage}
+## Usage
+${data.usage}
 
-    ## Contributing
-    ${data.contribution}
+## Contributing
+${data.contribution}
 
-    ## License
-    ${data.license}
+## License
+${data.license}
 
-    ## Github
-    ${data.github}
+## Github
+${data.github}
 
-    ## Questions
-    If you have any questions, please contact me at ${data.contact} or visit my github page at ${data.github}
+## Questions
+If you have any questions, please contact me at ${data.contact} or visit my github page at ${data.github}
 
   ${renderLicenseBadge(data.license)}
 

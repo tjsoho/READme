@@ -16,7 +16,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'descript',
+        name: 'description',
         message: 'Project Description?',
     },
     {
@@ -46,7 +46,7 @@ const questions = [
     },
     {
         type: 'list',
-        name: 'licsense',
+        name: 'license',
         message: 'Choose a license?',
         choices: [
             "mit",
