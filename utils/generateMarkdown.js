@@ -105,10 +105,14 @@ ${renderLicenseBadge(data.license)}
 - [Contributing](#contributing)
 - [Questions](#questions)
 - [License](#license)
+- [URL](#url)
 
 
 ## Description
 ${data.description}
+
+## URL
+${data.url}
 
 ## Installation
 ${data.installation}
@@ -121,15 +125,15 @@ ${data.contribution}
 
 ## License
 ${renderLicenseBadge(data.license)} 
-The for this project is: ${data.license}. For more information, please visit: 
+The license used for this project is: ${data.license}. For more information, please visit: 
 ${renderLicenseLink(data.license)}
 
 
 ## Github
-github.com/${data.github}
+https://github.com/${data.github}
 
 ## Questions
-If you have any questions, please contact me at ${data.contact} or visit my github page at github.com/${data.github}
+If you have any questions, please contact me at ${data.contact} or visit my github page at https://github.com/${data.github}
 
 `;
 }

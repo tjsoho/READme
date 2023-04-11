@@ -45,6 +45,11 @@ const questions = [
         message: 'Usage info?',
     },
     {
+        type: 'input',
+        name: 'url',
+        message: 'Deployed URL?',
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'Choose a license?',
