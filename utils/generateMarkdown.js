@@ -120,16 +120,16 @@ ${data.usage}
 ${data.contribution}
 
 ## License
-${data.license}
-${renderLicenseBadge(data.license)}
+${renderLicenseBadge(data.license)} 
+The for this project is: ${data.license}. For more information, please visit: 
 ${renderLicenseLink(data.license)}
 
 
 ## Github
-${data.github}
+github.com/${data.github}
 
 ## Questions
-If you have any questions, please contact me at ${data.contact} or visit my github page at ${data.github}
+If you have any questions, please contact me at ${data.contact} or visit my github page at github.com/${data.github}
 
 `;
 }

@@ -1,5 +1,5 @@
 
-# Hello World
+# Weather API
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,26 +13,26 @@
 
 
 ## Description
-kd
+A website calling the weather.org api to allow users to search for any cities weather forecast. Users are then able to retrieve previous search history data by clicking on their previous city search in the histrory container.
 
 ## Installation
-kf
+Follow the URL
 
 ## Usage
-ks
+For anyone wanting to search for city weather
 
 ## Contributing
-ks
+Solo project.Executed by tjsoho
 
 ## License
-mit
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+The for this project is: mit. For more information, please visit: 
 https://opensource.org/licenses/MIT
 
 
 ## Github
-kls
+github.com/tjsoho
 
 ## Questions
-If you have any questions, please contact me at ld or visit my github page at kls
+If you have any questions, please contact me at tj@me.com or visit my github page at github.com/tjsoho
 
