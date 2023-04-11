@@ -1,5 +1,7 @@
 
-# Music App
+# Hello World
+
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 - [Description](#description)
@@ -11,25 +13,26 @@
 
 
 ## Description
-An app for students to gain better knowledge of their guitar chord
+kd
 
 ## Installation
-NA
+kf
 
 ## Usage
-For all musicians
+ks
 
 ## Contributing
-All by me
+ks
 
 ## License
 mit
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+https://opensource.org/licenses/MIT
+
 
 ## Github
-tjsoho
+kls
 
 ## Questions
-If you have any questions, please contact me at tj@me.com or visit my github page at tjsoho
-
-  
+If you have any questions, please contact me at ld or visit my github page at kls
 
